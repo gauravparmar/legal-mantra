@@ -1,0 +1,10 @@
+.icons
+{
+	box-shadow:0 10px 10px rgba(121,121,121,0.7);
+}
+.icons:hover
+{
+	box-shadow:none;
+}
+
+
